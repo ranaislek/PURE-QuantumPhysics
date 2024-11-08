@@ -1,7 +1,7 @@
 
-<h1 align="center"> #PURE - QuantumPhysics </h1>
-<h1 align="center"> Program for Undergrad. Research </h1>
-<h1 align="center"> - My project with Prof. Durmuş Ali Demir about "Free Fall" in Quantum Physics </h1>
+<h1 align="center"> PURE - Program for Undergrad. Research </h1>
+<h2 align="center">  Quantum Physics </h2>
+<h3 align="center"> - My project with Prof. Durmuş Ali Demir about "Free Fall" in Quantum Physics </h3>
 
 
 <div align="center">
