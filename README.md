@@ -1,5 +1,3 @@
-put logos side by side.
-
 # PURE - QuantumPhysics
 Program for Undergrad. Research - My project with Prof. Durmuş Ali Demir about "Free Fall" in Quantum Physics
 
